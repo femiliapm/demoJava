@@ -22,7 +22,7 @@ public class Conditional {
 		conditional.hari(20);
 		conditional.looping();
 		
-		LuasSegitia luasSegitia = new LuasSegitia();
+		LuasSegitiga luasSegitia = new LuasSegitiga();
 		System.out.println(luasSegitia.num);
 	}
 }

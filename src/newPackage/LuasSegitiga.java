@@ -1,6 +1,6 @@
 package newPackage;
 
-public class LuasSegitia {
+public class LuasSegitiga {
 	public int alas = 5;
 	public int tinggi = 15;
 	public int luas;
@@ -19,7 +19,7 @@ public class LuasSegitia {
 	}
 
 	public static void main(String[] args) {
-		LuasSegitia luasSegitiga = new LuasSegitia();
+		LuasSegitiga luasSegitiga = new LuasSegitiga();
 		luasSegitiga.luasMethod();
 		
 		System.out.println(luasSegitiga.luasInteger(3, 10));
